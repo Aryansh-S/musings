@@ -3,7 +3,7 @@ Ideally, collaboration is supposed to "include everyone" and "be greater than th
 What's too often abstracted away, though, is how this is to be done. 
 
 Consider a group project at school, perhaps the most traditional example of collaboration. 
-As much as we wouldn't like to admit it, power imbalance in the group makes it difficult, or 
+As much as we wouldn't like to admit it, the typical power imbalance in the group makes it difficult, or 
 even impossible, for contribution to be equitable. A single person or smaller group of people within the group often ends up doing most of the work. 
 This isn't even necessarily because that single person or subgroup wants to do most of the work. 
 Rather, their greater ideas or work ethic ends up overpowering that of the rest of the group. 
