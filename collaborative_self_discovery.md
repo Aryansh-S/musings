@@ -1,3 +1,7 @@
+# Collaborative Self-Discovery
+
+## A Problem
+
 Collaboration is probably the textbook term for working in group settings. At its core, it means working together in a group to achieve a common goal. 
 Ideally, collaboration is supposed to "include everyone" and "be greater than the sum of its parts".
 What's too often abstracted away, though, is how this is to be done. 
@@ -10,11 +14,15 @@ Rather, their greater ideas or work ethic ends up overpowering that of the rest 
 Consequently, the value of the group becomes not "greater than the sum of its parts" or even "equal to the sum of its parts", but at most its greatest part.
 Furthermore, as only a select few in the group actually get to contribute ideas, most of the group doesn't actually get to learn.
 
+## A Bandaid
+
 A quick bandaid to fix this is "divide and conquer", where each member of the group is delegated a smaller responsibility, such that
 the common goal can be achieved if all responsibilities are adequately met. 
 However, this defeats the idea of collaboration altogether. Even though everyone is contributing to the common goal, there is no longer any "working together."
 There is no longer any opportunity for the group's nuanced ideas to interact and become something greater. 
 Indeed, with "divide and conquer", the value of the group is "equal to the sum of its parts", but still not "greater".
+
+## A Solution
 
 To fix this, I've come up with the idea of **collaborative self-discovery**. Here's a synopsis of what I propose:
 
